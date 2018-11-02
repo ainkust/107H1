@@ -1,0 +1,4 @@
+[submodule "ainkust/107H1"]
+	path = ainkust/107H1
+	url = git@github.com:ainkust/107H1.git
+	branch = develop
